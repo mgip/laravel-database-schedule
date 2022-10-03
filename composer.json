@@ -1,5 +1,6 @@
 {
   "name": "mgip/laravel-database-schedule",
+  "version": "1.0",
   "description": "Manage your Laravel Task Scheduling in a friendly interface and save schedules to the database.",
   "keywords": ["laravel", "schedule", "task", "jobs"],
   "license": "MIT",
